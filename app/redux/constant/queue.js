@@ -1,0 +1,11 @@
+const QUEUE_SET = 'QUEUE_SET';
+const QUEUE_ADD = 'QUEUE_ADD';
+const QUEUE_REMOVE = 'QUEUE_REMOVE';
+const QUEUE_CLEAR = 'QUEUE_CLEAR';
+
+module.exports = {
+  QUEUE_SET,
+  QUEUE_ADD,
+  QUEUE_REMOVE,
+  QUEUE_CLEAR,
+};

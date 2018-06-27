@@ -1,0 +1,7 @@
+const SHUFFLE = 'SHUFFLE';
+const SHUFFLE_REQUEST = 'SHUFFLE_REQUEST';
+
+module.exports = {
+  SHUFFLE,
+  SHUFFLE_REQUEST,
+};

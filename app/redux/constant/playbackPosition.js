@@ -1,0 +1,5 @@
+const PLAYBACK_POSITION = 'PLAYBACK_POSITION';
+
+module.exports = {
+  PLAYBACK_POSITION,
+};

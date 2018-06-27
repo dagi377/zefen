@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "emotion",
+  ],
+  "presets": [
+    [
+      "env", {
+        "targets": { "safari": 10 },
+        "debug": true,
+        "useBuiltIns": true
+      }
+    ],
+    "react",
+  ]
+}
