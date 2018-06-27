@@ -19,4 +19,4 @@ Firefox, Chrome, Safari and Edge are supported
 - [ ] Documentation
 
 ## Contribution
-Contributions are welcome. Wolf-Cola project issue / feature tracking is done [here](https://github.com/Zefenify/Wolf-Cola/issues)
+Contributions are welcome. Wolf-Cola project issue / feature tracking is done 

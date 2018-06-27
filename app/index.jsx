@@ -251,7 +251,7 @@ class WolfCola extends PureComponent {
                         <span>Settings</span>
                         <Settings style={{ float: 'right' }} />
                       </NavLinkStyled>
-                      <NavLinkStyled to="https://github.com/Zefenify/Wolf-Cola/releases" target="_blank">
+                      <NavLinkStyled >
                         <span>Install Desktop App</span>
                         <Download style={{ float: 'right' }} />
                       </NavLinkStyled>
