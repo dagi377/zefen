@@ -1,12 +1,12 @@
-# Zefenify Web
+# Zefen Web
 
-![Zefenify](https://raw.githubusercontent.com/Zefenify/Web/master/Zefenify.jpg "Zefenify")
+![Zefen](https://raw.githubusercontent.com/dagi377/zefen/master/zefen.png "Zefen")
 
 ## Why Another Ethiopian Music Player Bruh?
 Well, _all_ Ethiopian music platforms I've seen don't come close to the _industry standard_ of a music player, are riddled with ads and **unbearable** UI/UX
 
 ## Stack
-Zefenify front-end is built with Howler, React, React-Router, Redux, Redux-Saga, Emotion and lots of 🍺
+Zefen front-end is built with Howler, React, React-Router, Redux, Redux-Saga, Emotion and lots of 🍺
 
 ## Browser Support
 Firefox, Chrome, Safari and Edge are supported
@@ -19,4 +19,4 @@ Firefox, Chrome, Safari and Edge are supported
 - [ ] Documentation
 
 ## Contribution
-Contributions are welcome. Wolf-Cola project issue / feature tracking is done 
+Contributions are welcome. Wolf-Cola project issue / feature tracking is done
